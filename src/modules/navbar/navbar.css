@@ -1,0 +1,22 @@
+#Navbar{
+    background-color: rgb(32, 32, 32);
+}
+#navheading{
+    color: whitesmoke;
+}
+#navheading2{
+    margin-bottom: 8px;
+    color: grey;
+}
+a{
+    margin: 5px;
+    font-size:15px;
+    color: rgb(173, 170, 170);
+}
+a:hover{
+    color: red;
+}
+input{
+    align-self: left;
+    background-color: whitesmoke;
+}

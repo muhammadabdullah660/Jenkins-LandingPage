@@ -1,0 +1,12 @@
+#imagesection{
+    background-color: whitesmoke;
+    padding: 10px;
+}
+#headimg{
+    text-align: center;
+}
+.link{
+    color: blue;
+    font-size: large;
+    font-weight:500;
+}

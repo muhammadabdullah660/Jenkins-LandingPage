@@ -1,0 +1,30 @@
+#section1image{
+    width: 400px;
+}
+.section1{
+    color: rgb(110, 105, 105);
+    font-weight: bolder;
+}
+#doc{
+    background-color: rgb(110, 105, 105);
+    color: whitesmoke;
+    width:150px;
+    height: 50px;
+    border: black;
+    border-radius: 5px;
+}
+#down{
+    background-color:orangered;
+    color: whitesmoke;
+    width:100px;
+    height: 50px;
+    border: black;
+    border-radius: 5px;
+}
+#doc:hover{
+    background-color: rgb(58, 57, 57);
+}
+#down:hover{
+    background-color: rgb(58, 57, 57);
+
+}
